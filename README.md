@@ -1,6 +1,8 @@
 #Kohana Gmail New Messages
 
-Get new messages for Gmail Accounts/Google Apps Accounts using Gmail Atom Feed.
+Kohana Module to get new messages for Gmail Accounts/Google Apps Accounts using Gmail Atom Feed.
+
+**Tested with:** *Kohana 3.3.2*
 
 ## How to use:
 
@@ -44,4 +46,5 @@ Return Array with keys:
 	* modified (String)
 	* issued (String)
 	* id (String)
-	 	
+	
+![Return Data](https://raw.githubusercontent.com/madeinnordeste/kohana-gnmessages/master/screenshot-return-data.png "Return Data") 	
