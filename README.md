@@ -1,4 +1,4 @@
-#Kohana Gmail New Messages
+#Kohana GNMessages (Gmail New Messages)
 
 Kohana Module to get new messages for Gmail Accounts/Google Apps Accounts using Gmail Atom Feed.
 
